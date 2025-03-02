@@ -1,0 +1,5 @@
+﻿  Rummy_random.cpp
+C:\Users\vilcu\Desktop\projects\Rummy_random\Rummy_random\Rummy_random\Rummy_random.cpp(243,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rummy_random.vcxproj -> C:\Users\vilcu\Desktop\projects\Rummy_random\Rummy_random\x64\Debug\Rummy_random.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
