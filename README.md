@@ -14,21 +14,22 @@ This is a C++ application that simulates a card game with 15 cards, each card ha
 # How it Works
 The main logic of the program consists of the following functions:
 
-citirePiese: This function generates an array of 14 random cards with random numbers and colors.
+- ReadPieces: This function generates an array of 14 random cards with random numbers and colors.
 
-afisare: Displays all the cards in the array.
+- Display: Displays all the cards in the array.
 
-quickSort: Sorts the cards array in ascending order based on the card number using the QuickSort algorithm.
+- QuickSort: Sorts the cards array in ascending order based on the card number using the QuickSort algorithm.
 
-verificareOrdonat: Verifies whether the array of cards is ordered correctly after sorting.
+- CheckOrdered: Verifies whether the array of cards is ordered correctly after sorting.
 
-succesiuneCuloare: Finds and prints all the sequences of cards with the same color.
+- ColorSequence: Finds and prints all the sequences of cards with the same color.
 
-succesiuneNumar: Finds and prints all the sequences of cards with consecutive numbers.
+- NumberSequence: Finds and prints all the sequences of cards with consecutive numbers.
 
-tragere: Draws a 15th random card and prints it.
+- Draw: Draws a 15th random card and prints it.
 
-ceaMaiLungaFormatie: Identifies and prints the longest sequence of cards, either based on color or consecutive numbers.
+- LongestFormation: Identifies and prints the longest sequence of cards, either based on color or consecutive numbers.
 
 # Example Output
-![image](https://github.com/user-attachments/assets/7a566ec4-3bdd-4d9f-8e3f-bd3117d01e62)
+![image](https://github.com/user-attachments/assets/f9a13ab8-1e5f-497d-a837-624fa82c314d)
+
